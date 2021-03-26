@@ -1,5 +1,4 @@
-# web-scraping
-## Web scraping algorithm for FDA and Health Canada website.
+# Web scraping algorithm for FDA and Health Canada website.
 
 Both FDA and Health Canada data follow a hierarchical organization. FDA data comprises of Chapter, Section and Subpart (Chapter > Section > Subpart). Similarly, Health Canada Data comprises of Chapter, Section and Subpart (Chapter > Section > Subpart).
 While performing the extraction process, it is important to note there exists a character restriction of 32K while writing to a CSV file.
