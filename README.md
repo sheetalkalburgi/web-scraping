@@ -19,7 +19,7 @@ Step 4 Repeat Step 2 and Step 3 for each of the pages from the list of pages.
 At the Subpart level, the CFR (Code for Federal Regulation) code and the regulation’s description is obtained. The CFR code is unique to each regulation defined by the FDA. The CFR code prior to the decimal point is referred to as FDA Part. For example, if the FDA regulation code is 211.56, FDA regulation code Part is 211. Foreign manufacturing suppliers who want to import to their products to the U.S. market, must comply with FDA good manufacturing practices under Title 21 of the Code of Federal Regulations (CFR).
 
 ## Health Canada Data
-Health Canada data is extracted from the official website: https://laws- lois.justice.gc.ca/eng/regulations/c.r.c.%2C_c._870/index.html
+Health Canada data is extracted from the official website: https://laws-lois.justice.gc.ca/eng/regulations/c.r.c.%2C_c._870/index.html
 
 Health Canada website provides an XML version of the regulations, creating a difference in process of extracting data from Health Canada website. The ElementTree XML API, a python XML parser is used to perform the extraction.
 
